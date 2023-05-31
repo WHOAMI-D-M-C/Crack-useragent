@@ -35,7 +35,7 @@ git clone https://github.com/DEVIL-MAY-CRY-444/Crack-useragent
 
 cd Crack-useragent
 
-python useragent.py
+python useragents.py
 ```
     
 ## Screenshots Step 1
